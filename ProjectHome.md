@@ -1,0 +1,1 @@
+A sincere effort to create solutions/examples to common project a developer faces in his lifespan and sincere effort to club all solutions i found on web which are opensource
